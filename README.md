@@ -1,4 +1,4 @@
-# Plantilla de reportes FACSO
+# Plantilla de la evaluación final Ciencia Social Abierta 2026
 
 ## Requisitos previos
 
